@@ -1,10 +1,10 @@
 package com.dedalo.primehouse.services;
 
 
+import java.util.List;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-
-import java.util.List;
 
 import com.dedalo.primehouse.models.vendasModels;
 import com.dedalo.primehouse.repositories.vendasRepository;
@@ -23,3 +23,4 @@ public class VendasServices {
         return repository.save(venda);
     }
 }
+// flamengo
