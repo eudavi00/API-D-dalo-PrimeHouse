@@ -6,7 +6,6 @@ import org.springframework.stereotype.Service;
 
 import java.util.List;
 
-import com.dedalo.primehouse.models.imoveisModels;
 import com.dedalo.primehouse.repositories.imoveisRepository;
 
 @Service
